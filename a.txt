@@ -3,9 +3,12 @@ Learning GIT Basic
 Edureka test
 
 Edureka Test 2
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Edureka 4
 =======
 Edureka 3
 >>>>>>> parent of cbea85f... Revert "Learning revert"
+=======
+>>>>>>> parent of 1d4277c... Learning Revert
