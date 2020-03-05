@@ -4,4 +4,8 @@ Edureka test
 
 Edureka Test 2
 
+<<<<<<< HEAD
 Edureka 4
+=======
+Edureka 3
+>>>>>>> parent of cbea85f... Revert "Learning revert"
