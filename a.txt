@@ -3,5 +3,3 @@ Learning GIT Basic
 Edureka test
 
 Edureka Test 2
-
-Edureka 3
